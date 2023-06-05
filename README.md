@@ -1,2 +1,2 @@
 # deeplearning
-Deep Learning related test codes
+Deep Learning related notes and codes
